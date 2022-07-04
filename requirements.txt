@@ -1,0 +1,11 @@
+beautifulsoup4
+boto3
+botocore
+bs4
+lxml
+numpy
+pandas
+python-dotenv
+requests
+selenium
+slackweb

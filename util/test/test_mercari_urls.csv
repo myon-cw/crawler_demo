@@ -1,0 +1,3 @@
+platform,url
+mercari,https://jp.mercari.com/search?keyword=PS5&order=desc&sort=created_time&price_min=30000&t2_category_id=76&t1_category_id=5&category_id=701&t3_category_id=701
+mercari,https://jp.mercari.com/search?keyword=Switch&order=desc&sort=created_time&price_min=20000&t2_category_id=76&t1_category_id=5&category_id=701&t3_category_id=701
